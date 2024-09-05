@@ -79,12 +79,53 @@ header nav ul{
     
 }
 
-header nav ul li{
+header nav li{
     display: inline-block;
     padding: 10px;
-    text-align: center;
+    display: inline;
 
 }
+
+
+
+
+
+.sobremim{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    
+
+}
+
+img{
+    width: 20%;
+
+}
+
+.img07{
+    width: 20%;
+    border: solid black;
+    margin: 20px;
+
+}
+
+li{
+    font-family: fantasy;
+    color: rgb(163, 168, 177);
+    margin-left: auto;
+    width: 800px;
+    font-size: 20px;
+}
+
+
+h2, h3 {
+    color: #fff;
+
+}
+
 
 
 
