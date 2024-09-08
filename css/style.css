@@ -126,11 +126,34 @@ h2, h3 {
 
 }
 
-.row img{
-    padding-left:30px;
+
+.row2 img{
+    border: solid black;
     text-align: center;
-   
+    padding-left: 13px;
+    margin-top: 50px;
+    margin-right: 200px;
 }
+
+.row2 h1{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    
+
+}
+
+.texto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+        
+    
+}
+
+
+
 
 
 
