@@ -17,10 +17,10 @@ body{
 .menu{
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
-    max-width: 1280px;
     margin: 0 auto;
-    
-
+    border: 2px solid #E6E6FA;
+    box-shadow: 1px 1px 2px 2px #cddeef;
+    max-width: 1600px;
 }
 
 .index.html{
@@ -35,6 +35,7 @@ body{
     color:         #0e2d96;
     background-color: #dadcdd;
     box-shadow: 1px 1px 2px 2px #77a2cc;
+    max-width: 1580px;
     
 }
 
@@ -114,7 +115,7 @@ img{
 
 li{
     font-family: fantasy;
-    color: rgb(163, 168, 177);
+    color: rgb(214, 217, 223);
     margin-left: auto;
     width: 800px;
     font-size: 20px;
@@ -122,6 +123,7 @@ li{
 
 
 h2, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #fff;
 
 }
@@ -133,6 +135,7 @@ h2, h3 {
     padding-left: 13px;
     margin-top: 50px;
     margin-right: 200px;
+    gap: 200px;
 }
 
 .row2 h1{
@@ -147,9 +150,6 @@ h2, h3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    
-        
-    
 }
 
 
